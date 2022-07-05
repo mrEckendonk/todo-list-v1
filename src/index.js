@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import './style.css';
 
 const list = document.querySelector('.todo-items');
