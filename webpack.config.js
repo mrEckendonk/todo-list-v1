@@ -3,16 +3,13 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   mode: 'development',
-  entry: {
-    index: './src/index.js',
-  },
+  entry: './src/index.js',
   devtool: 'inline-source-map',
   devServer: {
     static: './dist',
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'ToDo App',
       template: './src/index.html',
     }),
   ],
