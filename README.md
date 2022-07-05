@@ -23,10 +23,6 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -38,7 +34,7 @@ To get a working local copy up and running follow these simple steps
 
 
 ```
-$ git clone https://github.com/mrEckendonk/todo-today-final.git
+$ git clone https://github.com/mrEckendonk/todo-list-v1.git
 ```
 - Finally, run the next command in the terminal to see the web app in your local browser, or also, you can use Live Server in Visual Studio Code.
 ```
@@ -64,7 +60,7 @@ N/A
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mrEckendonk/todo-today-final/issues).
+Feel free to check the [issues page](https://github.com/mrEckendonk/todo-list-v1/issues).
 
 ## Show your support
 
