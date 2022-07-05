@@ -1,2 +1,79 @@
-# todo-list-v1
-Nice todo / task list to organize your daily tasks written in JavaScript ES6 using webpack for deployment. This was an educational project during the Microverse Bootcamp
+# Project Name : Todo App
+
+
+This repo is an almost exact copy of this Youtube video: https://www.youtube.com/watch?v=AcUd-_Yjjqg
+
+
+![screenshot](./app_screenshot.png)
+
+Additional description about the project and its features.
+
+## Built With
+
+- HTML 
+- CSS
+- Javascript
+- Webpack
+- VScode
+- Git & GitHub
+## Live Demo link
+
+[Live Demo Link](https://nice-todolist.netlify.app/)
+
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+have a working git on your localmachine.
+## Install
+To get a working local copy up and running follow these simple steps
+- open terminal
+- clone this project with the command:
+
+
+```
+$ git clone https://github.com/mrEckendonk/todo-list-v1.git
+```
+- Finally, run the next command in the terminal to see the web app in your local browser, or also, you can use Live Server in Visual Studio Code.
+```
+$ npm start
+```
+### Usage
+For anyone that whats to learn html & css & Js
+### Run tests
+N/A
+### Deployment
+N/A
+
+
+## Author
+
+👤 **Author**
+
+- GitHub: [@mrEckendonk](https://github.com/mrEckendonk)
+- Twitter: [@twitter](https://twitter.com/mike_eckendonk)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mike-van-eckendonk)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/mrEckendonk/todo-list-v1/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration 💘
+- Microverse program ⚡
+- My standup team 🏹
+- My family's support 🙌
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
