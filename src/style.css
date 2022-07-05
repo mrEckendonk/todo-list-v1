@@ -85,3 +85,7 @@ ul {
   cursor: pointer;
   color: red;
 }
+
+.drag {
+    cursor: move;
+}
