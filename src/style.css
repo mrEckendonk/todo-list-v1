@@ -50,6 +50,7 @@ ul {
 
 .input {
   font-style: italic;
+  width: 85%;
   border: none;
   outline: none;
   padding-left: 16px;
