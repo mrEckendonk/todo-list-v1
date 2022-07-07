@@ -1,7 +1,6 @@
 import './style.css';
 import ListTodo from './modules/list';
 
-
 const todos = new ListTodo();
 
 const renderList = () => {
