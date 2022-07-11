@@ -46,10 +46,10 @@ ul {
 }
 
 .icon:hover {
-  -webkit-transform: scale(1.20);
-  -moz-transform: scale(1.20);
-  -o-transform: scale(1.20);
-  transform: scale(1.20);
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  transform: scale(1.2);
 }
 
 .form-input {
