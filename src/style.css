@@ -39,6 +39,17 @@ ul {
 
 .icon {
   margin: 10px;
+  -webkit-transition: all 0.3s 0s ease-out;
+  -moz-transition: all 0.3s 0s ease-out;
+  -o-transition: all 0.3s 0s ease-out;
+  transition: all 0.3s 0s ease-out;
+}
+
+.icon:hover {
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  transform: scale(1.2);
 }
 
 .form-input {
@@ -80,6 +91,10 @@ ul {
 
 .restart {
   cursor: pointer;
+}
+
+.restart:hover {
+  transform: rotate(3.1416rad);
 }
 
 .trash {
