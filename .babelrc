@@ -3,6 +3,5 @@
     "test": {
       "plugins": ["@babel/plugin-transform-modules-commonjs"]
     }
-  },
-  "ignore": [".css",".scss"] 
+  }
 }

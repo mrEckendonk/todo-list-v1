@@ -1,9 +1,9 @@
-// import './style.css';
+import './style.css';
 import ListTodo from './modules/list';
 
 const todos = new ListTodo();
 
-export const renderList = () => {
+const renderList = () => {
   let todoList = '';
   todos.list.forEach((item) => {
     todoList += `<li class="todo-li"><input ${item.completed ? 'checked' : ''}  type="checkbox" class="checked">
