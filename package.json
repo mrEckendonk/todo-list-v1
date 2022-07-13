@@ -1,11 +1,14 @@
 {
   "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.18.6",
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.26.0",
     "html-webpack-plugin": "^5.5.0",
+    "jest": "^28.1.2",
+    "jest-environment-jsdom": "^28.1.2",
     "style-loader": "^3.3.1",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
@@ -167,6 +170,7 @@
     "isexe": "^2.0.0",
     "js-tokens": "^4.0.0",
     "js-yaml": "^3.14.1",
+    "jsdom": "^20.0.0",
     "jsesc": "^2.5.2",
     "json-parse-even-better-errors": "^2.3.1",
     "json-schema-traverse": "^0.4.1",
@@ -318,10 +322,10 @@
     "zwitch": "^1.0.5"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --watch",
     "start": "webpack serve --open",
-    "build": "webpack"
+    "build": "webpack",
+    "test": "jest --env=jsdom"
   },
   "repository": {
     "type": "git",
