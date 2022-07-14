@@ -1,5 +1,6 @@
 import ListTodo from '../src/modules/list';
 import renderList from '../src/modules/render';
+
 const todoList = new ListTodo();
 
 describe('Test the add function', () => {
