@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/94bb0da9-f41a-4de1-a1d1-2ef735dbaf4b/deploy-status)](https://app.netlify.com/sites/nice-todolist/deploys)
 # Project Name : Todo App
 
 
