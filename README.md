@@ -1,4 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/94bb0da9-f41a-4de1-a1d1-2ef735dbaf4b/deploy-status)](https://app.netlify.com/sites/nice-todolist/deploys)
+![Size](https://github-size-badge.herokuapp.com/mrEckendonk/todo-list-v1.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 # Project Name : Todo App
 
 
